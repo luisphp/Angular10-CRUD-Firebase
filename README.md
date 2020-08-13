@@ -9,8 +9,8 @@ SweetAlert
 Bootstrap
 
 <img src="app_images/2020-08-12_20h32_46.png">
-<img src="app_images/2020-08-12_20h32_35.png">
-<img src="app_images/2020-08-12_20h32_55.png">
+<img src="app_images/2020-08-12_20h33_35.png">
+<img src="app_images/2020-08-12_20h33_55.png">
 <img src="app_images/2020-08-12_20h34_15.png">
 <img src="app_images/2020-08-12_20h34_39.png">
 
